@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "next": "^15.3.5",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "name": "acode",
+  "version": "1.0.0",
+  "description": "Ana başlıklara ve içeriklere hızlıca ulaşmak için aşağıdaki bağlantıları kullanabilirsiniz.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kuzeyseydauzun/uzunyolcu.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kuzeyseydauzun/uzunyolcu/issues"
+  },
+  "homepage": "https://github.com/kuzeyseydauzun/uzunyolcu#readme"
+}
